@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<action-recipes>
+
+	<action id="com.hujinpu.line-dance.text-actions.delete-current-line" category="actions.text.important/actions.text.generic/actions.text.lines/com.hujinpu.LineDance/1">
+		<script>delete_current_line.js</script>
+		<key-equivalent>control backspace</key-equivalent>
+	</action>
+
+</action-recipes>
